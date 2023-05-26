@@ -1,0 +1,14 @@
+.button-gold{
+	background-color: #E3AA6C;
+	padding: 15px 75px;
+	border-radius: 5px;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+}
+
+.button-gold:hover{
+	background-color: transparent;
+	border: 1px solid #E3AA6C;
+	color: #E3AA6C;
+}
